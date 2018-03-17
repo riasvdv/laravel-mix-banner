@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-banner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Laravel Mix extension for Webpack Banner support.",
   "main": "index.js",
   "scripts": {
