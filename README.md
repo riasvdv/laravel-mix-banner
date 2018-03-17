@@ -7,7 +7,7 @@ This extension provides instant Webpack Banner support to your Mix (v2.1 and up)
 First, install the extension.
 
 ```
-npm install laravel-mix-banner
+npm install laravel-mix-banner --save-dev
 ```
 
 Then, require it within your `webpack.mix.js` file, like so:
