@@ -1,3 +1,9 @@
+<p align="center">
+<a href="https://www.npmjs.com/package/laravel-mix-banner"><img src="https://img.shields.io/npm/v/laravel-mix-banner.svg" alt="NPM"></a>
+<a href="https://npmcharts.com/compare/laravel-mix-banner?minimal=true"><img src="https://img.shields.io/npm/dt/laravel-mix-banner.svg" alt="NPM"></a>
+<a href="https://www.npmjs.com/package/laravel-mix-banner"><img src="https://img.shields.io/npm/l/laravel-mix-banner.svg" alt="NPM"></a>
+</p>
+
 # Laravel Mix Banner
 
 This extension provides instant Webpack Banner support to your Mix (v2.1 and up) builds.
