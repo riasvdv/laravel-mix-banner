@@ -1,6 +1,6 @@
 {
   "name": "laravel-mix-banner",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "A Laravel Mix extension for Webpack Banner support.",
   "main": "index.js",
   "scripts": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/rias500/laravel-mix-banner#readme",
   "peerDependencies": {
-    "laravel-mix": "^2.1.7"
+    "laravel-mix": ">= 2.1.7"
   }
 }
