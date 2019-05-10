@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rias500/laravel-mix-banner.git"
+    "url": "git+https://github.com/riasvdv/laravel-mix-banner.git"
   },
   "keywords": [
     "laravel",
@@ -20,9 +20,9 @@
   "author": "Rias Van der Veken",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/rias500/laravel-mix-banner/issues"
+    "url": "https://github.com/riasvdv/laravel-mix-banner/issues"
   },
-  "homepage": "https://github.com/rias500/laravel-mix-banner#readme",
+  "homepage": "https://github.com/riasvdv/laravel-mix-banner#readme",
   "peerDependencies": {
     "laravel-mix": ">= 2.1.7"
   }
